@@ -14,4 +14,4 @@ Welcome to the **DSA Hub**! This repository contains interactive Jupyter Noteboo
 
 - **`f1-n3-dsa simple algorithm.ipynb`**  
   Examples of simple algorithms, including searching, sorting, and recursion.
-  Learn More: W3schools-[DSA-Simple Algorithm](https://www.w3schools.com/dsa/dsa_intro.php)
+  Learn More: W3schools-[DSA-Simple Algorithm](https://www.w3schools.com/dsa/dsa_algo_simple.php)
