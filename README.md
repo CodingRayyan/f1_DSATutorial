@@ -1,4 +1,4 @@
-# Data Structure and Algorithm (DSA) Hub
+# Data Structure and Algorithm (DSA) - Tutorial Hub
 
 Welcome to the **DSA Hub**! This repository contains interactive Jupyter Notebooks to help you learn and implement core Data Structures and Algorithms step by step.
 
